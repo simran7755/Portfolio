@@ -1,0 +1,61 @@
+Golf Club
+
+Designing and implementing web application for Golf club to allow 
+organization to manage tee times, scores and submit new application.
+
+The programming tools that used to make this functional website are C#, ASP.Net Core,
+Razor Pages, HTML, SQL and JavaScript. The software tools are Microsoft Visual Studio and
+Micrsoft SQL studio.
+
+Designing tables, stored procedures with proper data types using Transqt SQL.
+
+Handled Sql exception and also programmed validations such as user can't book multiple tee time
+in a day.
+
+Followed SDLC, normalized the given data, and designed different daiagrams such as
+Component view, logical view, interaction and system sequence diagram.
+
+
+POS
+
+Developed web POS system for hardware shop where items can be added or removed, customer 
+account will be modified and sales will be performed by selling existing items in the system.
+
+The programming tools that used to make this functional website are C#, ASP.Net Core,
+Razor Pages, HTML, SQL and JavaScript. The software tools are Microsoft Visual Studio and
+Micrsoft SQL studio.
+
+Stored procedure and tables were also implemented in database using Transct SQL
+
+Server and client side validations are also programmed for this website to make sure 
+user key inputs are valid.
+
+
+HealthCare
+
+Develped health management website for a business to allow patients to book appointments,
+doctors to view appointments, prescribe medicine and admin to manage both roles.
+
+The programming tools that were used to make this website functional were PHP, HTML, MySQL
+and Javascript. The software tools that were used are XAMPP and Notepad++.
+
+Business requirements were gathered and followed SDLC cycle to complete this project.
+
+
+Devoanire Laundromat
+
+Developing software application for Laundary business where items will be modified and
+user accounts will be managed by a business owner. The staff will modify customer accounts,
+process sales and maintain order status.
+
+Developing business portfolio website for general business information, services, booking 
+appointments and contact.
+
+User requirements were discussed with business owner and using SDLC to complete this project
+
+The programming tools that are used in this project are C#, SQL, and Windows Forms. The
+software tools are Microsoft Visual Studio and Microsoft SQL Studio.
+
+
+
+ 

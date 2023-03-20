@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.headings{
+    font-family: century;
+    font-size: 3em;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+#video video{
+    width:600px ;
+    height: 400px;
+    position: absolute;
+    right: 29%;
+   
+}
+
+.intro{
+    margin-left: 420px;
+    margin-top: 420px;
+    display: block;
+}
+
+.intro1{
+    font-size: 15px;
+    width: 700px;
+    display: inline;
+}
+
+li{
+    text-decoration: none;
+}
+
+
+
+
+
